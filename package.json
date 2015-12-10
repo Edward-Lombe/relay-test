@@ -1,0 +1,11 @@
+{
+  "name": "relay-test",
+  "version": "1.0.0",
+  "description": "Tests the solace-api by calling a random route to the API",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edward Lombe <edward.lombe@mycosystems.com.au> (https://github.com/Edward-Lombe)",
+  "license": "ISC"
+}
